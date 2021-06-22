@@ -8,4 +8,4 @@ It generates cool usernames in two categories: Hero and Villain.
 
 ## Live Site
 
-<a href="https://geralt-of-rivia-witcher.github.io/The_Simon_Game/">The Simon Game</a>
+<a href="https://geralt-of-rivia-witcher.github.io/Username_Generator/">Username Generator</a>
