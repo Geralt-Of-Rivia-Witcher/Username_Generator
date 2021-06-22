@@ -3,6 +3,12 @@ body
     background-color: #292826;
     text-align: center;
 }
+
+.wrapper
+{
+    overflow-x: hidden;
+}
+
 .heading-div
 {
     height: 200px;
