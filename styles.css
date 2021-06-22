@@ -19,7 +19,7 @@ body
     margin-top: 100px;
     color: #f9D342;
     font-family: 'Press Start 2P', cursive;
-    font-size: 60px;
+    font-size: calc(30px + (60 - 20) * ((100vw - 300px) / (1600 - 300))) !important;
     line-height: 5rem;
 }
 
@@ -193,31 +193,5 @@ button
 .username
 {
     color: #F7A440;
-    font-size: 50px;
-}
-
-@media (max-width: 550px) and (min-width: 350px)
-{
-    .heading
-    {
-        font-size: 40px;
-    }
-
-    .username
-    {
-        font-size: 45px;
-    }
-}
-
-@media (max-width: 350px)
-{
-    .heading
-    {
-        font-size: 30px;
-    }
-
-    .username
-    {
-        font-size: 35px;
-    }
+    font-size: calc(35px + (50 - 35) * ((100vw - 300px) / (1600 - 300))) !important;
 }
