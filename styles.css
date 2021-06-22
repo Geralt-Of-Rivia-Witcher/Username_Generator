@@ -29,7 +29,7 @@ button
     width: 300px;
     border-radius: 20px;
     border: none;
-    margin: 50px;
+    margin: 50px auto;
     font-size: 23px;
     font-family: 'Press Start 2P', cursive;
     background-color: #f9D342;
@@ -194,4 +194,30 @@ button
 {
     color: #F7A440;
     font-size: 50px;
+}
+
+@media (max-width: 550px) and (min-width: 350px)
+{
+    .heading
+    {
+        font-size: 40px;
+    }
+
+    .username
+    {
+        font-size: 45px;
+    }
+}
+
+@media (max-width: 350px)
+{
+    .heading
+    {
+        font-size: 30px;
+    }
+
+    .username
+    {
+        font-size: 35px;
+    }
 }
