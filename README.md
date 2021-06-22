@@ -9,3 +9,8 @@ It generates cool usernames in two categories: Hero and Villain.
 ## Live Site
 
 <a href="https://geralt-of-rivia-witcher.github.io/Username_Generator/">Username Generator</a>
+
+## Node modules used
+
+1. Superheroes: <a href="https://www.npmjs.com/package/superheroes">Site</a>
+2. Supervillains: <a href="https://www.npmjs.com/package/supervillains">Site</a>
