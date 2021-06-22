@@ -14,3 +14,7 @@ It generates cool usernames in two categories: Hero and Villain.
 
 1. Superheroes: <a href="https://www.npmjs.com/package/superheroes">Site</a>
 2. Supervillains: <a href="https://www.npmjs.com/package/supervillains">Site</a>
+
+## Additional Info
+
+The node modules were converted into browser readable code using <a href="https://browserify.org/">Browserify</a>.
